@@ -94,4 +94,4 @@ This API is perfect for:
 This project uses [Faker](https://github.com/DiUS/java-faker) (MIT License) for generating fake data.
 
 ## License
-- MIT License
+MIT License
