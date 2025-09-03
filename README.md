@@ -90,5 +90,8 @@ This API is perfect for:
 - Backend developers simulating responses from third-party APIs.
 - Testing and development environments where real data cannot or should not be used.
 
+## Third-Party Libraries
+This project uses [Faker](https://github.com/DiUS/java-faker) (MIT License) for generating fake data.
+
 ## License
 - MIT License
