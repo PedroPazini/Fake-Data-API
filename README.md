@@ -20,8 +20,8 @@ This project was created to fill a gap: the need for a reliable API that returns
 ### Running the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/fake-data-api.git
-    cd fake-data-api
+    git clone https://github.com/your-username/Fake-Data-API.git
+    cd Fake-Data-API
    ```
 2. Build and run the project:
     ```bash
